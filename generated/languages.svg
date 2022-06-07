@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #ff3e00;width: 47.245%;" class="progress-item"></span><span style="background-color: #c6538c;width: 32.358%;" class="progress-item"></span><span style="background-color: #563d7c;width: 7.860%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 6.510%;" class="progress-item"></span><span style="background-color: #2b7489;width: 5.715%;" class="progress-item"></span><span style="background-color: #701516;width: 0.312%;" class="progress-item"></span>
+<span style="background-color: #ff3e00;width: 47.234%;" class="progress-item"></span><span style="background-color: #c6538c;width: 32.365%;" class="progress-item"></span><span style="background-color: #563d7c;width: 7.861%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 6.511%;" class="progress-item"></span><span style="background-color: #2b7489;width: 5.716%;" class="progress-item"></span><span style="background-color: #701516;width: 0.312%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Svelte</span>
-<span class="percent">47.24%</span>
+<span class="percent">47.23%</span>
 </li>
 
 
