@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #ff5a03;width: 24.142%;" class="progress-item"></span><span style="background-color: #ff3e00;width: 22.089%;" class="progress-item"></span><span style="background-color: #2b7489;width: 17.173%;" class="progress-item"></span><span style="background-color: #563d7c;width: 16.443%;" class="progress-item"></span><span style="background-color: #c6538c;width: 15.109%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 4.899%;" class="progress-item"></span><span style="background-color: #701516;width: 0.146%;" class="progress-item"></span>
+<span style="background-color: #ff5a03;width: 24.142%;" class="progress-item"></span><span style="background-color: #ff3e00;width: 22.089%;" class="progress-item"></span><span style="background-color: #3178c6;width: 17.173%;" class="progress-item"></span><span style="background-color: #563d7c;width: 16.443%;" class="progress-item"></span><span style="background-color: #c6538c;width: 15.109%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 4.899%;" class="progress-item"></span><span style="background-color: #701516;width: 0.146%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -158,7 +158,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 
 
 <li style="animation-delay: 300ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#2b7489;"
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3178c6;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
